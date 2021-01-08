@@ -30,12 +30,12 @@ msgstr "Қара_п шығу..."
 #: ../libgimp/gimpexport.c:332 ../libgimp/gimpexport.c:368
 #, c-format
 msgid "%s plug-in can't handle layers"
-msgstr ""
+msgstr "Плагин қабаттарды өңдей алмады"
 
 #: ../libgimp/gimpexport.c:333 ../libgimp/gimpexport.c:342
 #: ../libgimp/gimpexport.c:351 ../libgimp/gimpexport.c:369
 msgid "Merge Visible Layers"
-msgstr ""
+msgstr "Көрінетін қабаттарды біріктіру"
 
 #: ../libgimp/gimpexport.c:341
 #, c-format
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ../libgimp/gimpexport.c:473
 msgid "Add Alpha Channel"
-msgstr ""
+msgstr "Альфа канал қосу"
 
 #: ../libgimp/gimpexport.c:481
 #, c-format
@@ -172,7 +172,7 @@ msgstr "Ба_с тарту"
 
 #: ../libgimp/gimpexport.c:547
 msgid "C_onfirm"
-msgstr ""
+msgstr "Растау"
 
 #: ../libgimp/gimpexport.c:623
 msgid "Export File"
@@ -218,7 +218,7 @@ msgstr ""
 #: ../libgimp/gimpexport.c:1193
 #, c-format
 msgid "Export Image as %s"
-msgstr ""
+msgstr "Суретті келесідей экспорттау"
 
 #: ../libgimp/gimpfontselectbutton.c:136
 msgid "Font Selection"
@@ -226,7 +226,7 @@ msgstr "Қаріпті таңдау"
 
 #: ../libgimp/gimpgradientselectbutton.c:154
 msgid "Gradient Selection"
-msgstr ""
+msgstr "Градиентті таңдау"
 
 #: ../libgimp/gimpimagemetadata.c:253
 msgid "Background"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../libgimp/gimpimagemetadata.c:449
 msgid "_Rotate"
-msgstr "Бұ_ру"
+msgstr "Бұру"
 
 #: ../libgimp/gimpimagemetadata.c:490
 msgid "Original"
@@ -251,7 +251,7 @@ msgstr "Бастапқы"
 
 #: ../libgimp/gimpimagemetadata.c:506
 msgid "Rotated"
-msgstr ""
+msgstr "Бұрылған"
 
 #: ../libgimp/gimpimagemetadata.c:524
 msgid "This image contains Exif orientation metadata."
@@ -263,7 +263,7 @@ msgstr ""
 
 #: ../libgimp/gimpimagemetadata.c:554
 msgid "_Don't ask me again"
-msgstr ""
+msgstr "Қайта сұрамау"
 
 #: ../libgimp/gimpimagemetadata-save.c:378
 msgid "GIMP 2.10"
@@ -2933,7 +2933,7 @@ msgstr "Контраст"
 #~ msgstr "Көрінетін"
 
 #~ msgid "_Select"
-#~ msgstr "Таң_дау"
+#~ msgstr "Таңдау"
 
 #~ msgid "More..."
 #~ msgstr "Көбірек білу..."
@@ -2971,4 +2971,4 @@ msgstr "Контраст"
 #~ msgstr "Sans"
 
 #~ msgid "_Edit"
-#~ msgstr "Тү_зету"
+#~ msgstr "Түзету"
